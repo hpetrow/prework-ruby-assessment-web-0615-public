@@ -12,7 +12,7 @@ describe "Methods" do
   ],
   :students => [ 
     {:name => "Marissa", :grade => "B"},
-    {:name=>"Billy", :grade => "F"},
+    {:name =>"Billy", :grade => "F"},
     {:name => "Frank", :grade => "A"},
     {:name => "Sophie", :grade => "C"}
   ]
